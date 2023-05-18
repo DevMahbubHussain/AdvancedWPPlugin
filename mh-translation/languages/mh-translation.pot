@@ -1,0 +1,351 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MV "
+"Mahbub Translation "
+"v1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2023-05-18 13:02+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.3\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: functions/functions.php:22
+msgid ""
+"Required form field is "
+"missing"
+msgstr ""
+
+#: functions/functions.php:26
+msgid ""
+"Username too short. At "
+"least 6 characters is "
+"required"
+msgstr ""
+
+#: functions/functions.php:30
+msgid "Invalid credentials"
+msgstr ""
+
+#: functions/functions.php:34
+msgid ""
+"The username you entered "
+"is not valid!"
+msgstr ""
+
+#: functions/functions.php:38
+msgid "Email is not valid"
+msgstr ""
+
+#: functions/functions.php:42
+msgid ""
+"Email already exists"
+msgstr ""
+
+#: functions/functions.php:46
+msgid ""
+"Password length must be "
+"greater than 5"
+msgstr ""
+
+#: functions/functions.php:73
+msgid "Create your account"
+msgstr ""
+
+#: functions/functions.php:75
+msgid "Username"
+msgstr ""
+
+#: functions/functions.php:77
+msgid "First Name"
+msgstr ""
+
+#: functions/functions.php:79
+msgid "Last Name"
+msgstr ""
+
+#: functions/functions.php:81
+msgid "Email address"
+msgstr ""
+
+#: functions/functions.php:83
+msgid "Password"
+msgstr ""
+
+#: functions/functions.php:85
+msgid "Sign Up"
+msgstr ""
+
+#: functions/functions.php:90
+msgid "Or login"
+msgstr ""
+
+#: mh-translations.php:140
+msgid "Submit Translation"
+msgstr ""
+
+#: mh-translations.php:155
+#: post-types/mh-translation-cpt.php:31
+msgid "Edit Translation"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:23
+msgctxt ""
+"Post Type General Name"
+msgid "Translations"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:24
+msgctxt ""
+"Post Type Singular Name"
+msgid "Translation"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:25
+msgid "Translations"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:26
+msgid "Parent Translation"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:27
+msgid "All Translations"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:28
+msgid "View Translation"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:29
+#: post-types/mh-translation-cpt.php:30
+msgid "Add New Translation"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:32
+msgid "Update Translation"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:33
+msgid "Search Translation"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:34
+msgid ""
+"No Translation Found"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:35
+msgid "Not found in trash"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:39
+#: post-types/mh-translation-cpt.php:40
+msgid "Translation"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:71
+#: post-types/mh-translation-cpt.php:72
+msgctxt "mh-translations"
+msgid "Singer"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:73
+msgid "Search Singer"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:74
+msgid "All Singers"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:75
+#: post-types/mh-translation-cpt.php:76
+msgid "Parent Singer"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:77
+msgid "Edit Singer"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:78
+msgid "Update Singer"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:79
+msgid "Add Singer"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:80
+msgid "New Singer"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:81
+#: views/mh-translations_edit_shortcode.php:99
+#: views/mh-translations_shortcode.php:79
+#: views/templates/single-mh-translations.php:33
+msgid "Singer"
+msgstr ""
+
+#: post-types/mh-translation-cpt.php:106
+msgid ""
+"Translations Options"
+msgstr ""
+
+#: views/mh-translations_edit_shortcode.php:26
+#: views/mh-translations_shortcode.php:24
+msgid ""
+"Please, enter a title"
+msgstr ""
+
+#: views/mh-translations_edit_shortcode.php:31
+#: views/mh-translations_shortcode.php:29
+msgid ""
+"Please, enter some "
+"content"
+msgstr ""
+
+#: views/mh-translations_edit_shortcode.php:36
+#: views/mh-translations_shortcode.php:34
+msgid ""
+"Please, enter some singer"
+msgstr ""
+
+#: views/mh-translations_edit_shortcode.php:82
+msgid "Edit translation"
+msgstr ""
+
+#: views/mh-translations_edit_shortcode.php:96
+#: views/mh-translations_shortcode.php:76
+#: views/mh-translations_shortcode.php:134
+msgid "Title"
+msgstr ""
+
+#: views/mh-translations_edit_shortcode.php:110
+#: views/mh-translations_metabox.php:22
+#: views/mh-translations_shortcode.php:93
+msgid ""
+"Has transliteration?"
+msgstr ""
+
+#: views/mh-translations_edit_shortcode.php:112
+#: views/mh-translations_metabox.php:26
+#: views/mh-translations_shortcode.php:95
+#: views/mh-translations_shortcode.php:146
+msgid "Yes"
+msgstr ""
+
+#: views/mh-translations_edit_shortcode.php:113
+#: views/mh-translations_metabox.php:27
+#: views/mh-translations_shortcode.php:96
+#: views/mh-translations_shortcode.php:146
+msgid "No"
+msgstr ""
+
+#: views/mh-translations_edit_shortcode.php:115
+#: views/mh-translations_metabox.php:33
+#: views/mh-translations_shortcode.php:98
+msgid "Video URL"
+msgstr ""
+
+#: views/mh-translations_edit_shortcode.php:123
+#: views/mh-translations_shortcode.php:106
+msgid "Submit"
+msgstr ""
+
+#: views/mh-translations_edit_shortcode.php:126
+msgid ""
+"Back to translations list"
+msgstr ""
+
+#: views/mh-translations_shortcode.php:62
+msgid ""
+"Submit new translation"
+msgstr ""
+
+#: views/mh-translations_shortcode.php:130
+msgid "Your Translations"
+msgstr ""
+
+#: views/mh-translations_shortcode.php:133
+msgid "Date"
+msgstr ""
+
+#: views/mh-translations_shortcode.php:135
+msgid "Transliteration"
+msgstr ""
+
+#: views/mh-translations_shortcode.php:136
+msgid "Edit?"
+msgstr ""
+
+#: views/mh-translations_shortcode.php:137
+msgid "Delete?"
+msgstr ""
+
+#: views/mh-translations_shortcode.php:138
+msgid "Status"
+msgstr ""
+
+#: views/mh-translations_shortcode.php:148
+msgid "Edit"
+msgstr ""
+
+#: views/mh-translations_shortcode.php:149
+msgid "Delete"
+msgstr ""
+
+#: views/mh-translations_shortcode.php:150
+msgid "Published"
+msgstr ""
+
+#: views/mh-translations_shortcode.php:150
+msgid "Pending"
+msgstr ""
+
+#: views/templates/single-mh-translations.php:38
+msgid "Author"
+msgstr ""
+
+#: views/templates/single-mh-translations.php:41
+msgid "Published on"
+msgstr ""
